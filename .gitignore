@@ -1,0 +1,8 @@
+.DS_STORE
+.ccsproject
+.cproject
+.settings/
+.xdchelp
+Debug/
+.launches/
+.project
